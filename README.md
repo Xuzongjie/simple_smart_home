@@ -3,7 +3,11 @@
 app/server/hardward
 
 app:android platform
-
+  |      
+wifi
+  |
 server: a9
-
+  |      
+zigbee
+  |
 hardward:sensors/modules
